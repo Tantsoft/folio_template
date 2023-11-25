@@ -1,0 +1,24 @@
+/* navbar start */
+.navbar{
+    background-color: #02918c;
+}
+
+.navbar-nav  {
+    margin-right: 0;
+}
+
+.nav-link {
+  font-size: 12px;
+  font-weight: 700;
+  font-family: 'Open Sans', sans-serif;
+}
+/* navbar end*/
+
+.banner_bg{
+     background: url(../images/MYFOLIObg.jpg);
+     background-position: center;
+     background-size: cover;
+     background-repeat: no-repeat;
+     padding-top: 200px;
+     padding-bottom: 200px;
+}
