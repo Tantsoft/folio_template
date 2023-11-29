@@ -22,3 +22,47 @@
      padding-top: 200px;
      padding-bottom: 200px;
 }
+
+.banner_text h4{
+  font-size: 30px;
+  color: white;
+  font-weight: 400;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.banner_text h2{
+  font-size: 68px;
+  color: white;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-family: 'Open Sans', sans-serif;
+}
+
+/* about */
+
+.about{
+ padding-top: 80px;
+ padding-bottom:80px ;
+}
+
+
+.about_text h2{
+  font-size: 46px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #02918c;
+}
+
+.about_text p{
+  color: gray;
+}
+
+.item{
+  margin-top: 40px;
+
+}
+
+.item i{
+  font-size: 40px;
+  color: #219e9a;
+}
