@@ -66,3 +66,41 @@
   font-size: 40px;
   color: #219e9a;
 }
+
+
+/* service start */
+.service{
+  background: url(../images/bgtwo.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+
+.service_info h3{
+  font-size: 46px;
+  font-weight: 700;
+
+  color: #02918c;
+}
+
+
+.service_item i{
+  font-size: 35px;
+  color: #02918c;
+}
+/* service end */
+
+/* image part */
+.images_part{
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+.my_work h3{
+  font-size: 46px;
+  font-weight: 700;
+
+  color: #02918c;
+}
