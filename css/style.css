@@ -104,3 +104,26 @@
 
   color: #02918c;
 }
+
+
+/* image item start */
+.image_card{
+  background: url(../images/card01.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+
+.image_card_overly{
+  background: #219e9a8f;
+ margin-top: 40px;
+ margin-bottom: 40px;
+  opacity: 0;
+}
+
+.image_card_overly:hover{
+  opacity: 1;
+}
+
+/* image item end */
